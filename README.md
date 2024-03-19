@@ -14,6 +14,8 @@ By discord. Both dm and server's command are working.
 
 P.S.
 Sometimes the bot might be offline, please contact me and I will fix it as soon as possible.
+The bot may be terminated after the course/sememster end, but I will make sure
+it comes after I published the source code.
 ```
 
 ```

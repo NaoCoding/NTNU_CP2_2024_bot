@@ -22,5 +22,6 @@ it comes after I published the source code.
 [Update Log](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/Update_log.md)
 
 ![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/d35af353-3e80-427c-8021-00e3b43aa7c9)
+![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/5b32c301-76cd-48b1-8bd4-c91c9cf0f1ad)
 
 

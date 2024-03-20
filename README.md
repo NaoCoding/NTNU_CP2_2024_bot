@@ -20,3 +20,8 @@ it comes after I published the source code.
 [Command list](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/command_list.md)<br>
 [Invite Bot to your Discord server](https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot)<br>
 [Update Log](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/Update_log.md)
+
+![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/d35af353-3e80-427c-8021-00e3b43aa7c9)
+![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/910fa332-500b-47db-951e-23e5fbe37eb1)
+
+

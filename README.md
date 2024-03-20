@@ -27,9 +27,3 @@ Command lists:
 [Invite Bot to your Discord server](https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot)
 
 <br><br><br>
-```
-Update log:
-2024.03.19 found overflow bug at hw0103 main c file, 
-leading overflow output and return wrong answer. 
-(fixed at 2024/03/19)
-```

@@ -1,4 +1,4 @@
-hi### The source codes will not be published until the course / sememster end.
+### The source codes will not be published until the course / sememster end.
 ```
 About this bot : Discord bot for NTNU CP2 course 2024
 

@@ -17,13 +17,9 @@ Sometimes the bot might be offline, please contact me and I will fix it as soon 
 The bot may be terminated after the course/sememster end, but I will make sure
 it comes after I published the source code.
 ```
-
-```
-Command lists:
-!hw01
-    !hw0103 fy.size [fy.pPowers] [fy.pCoefficients] fx.size [fx.pPowers] [fx.pCoefficients]
-    ex : !hw0103 1 [2] [1] 2 [2,4] [3,6]
-```
+[Command list]
+<br><br>
 [Invite Bot to your Discord server](https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot)
 
-<br><br><br>
+<br><br>
+[Update Log](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/Update_log.md)

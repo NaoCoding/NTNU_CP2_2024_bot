@@ -14,6 +14,9 @@
 
   !hw0102 formula base
 
+    (Owing to discord.py rule, we need to replace " " to ","
+      in order to make the command readable for bot)
+
     example input : !hw0102 ABC_16,+,00001_2,*,10_10,-,9_10 10
 
       = ABC_16 + 00001_2 * 10_10 - 9_10 , base = 10

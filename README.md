@@ -17,7 +17,7 @@ Sometimes the bot might be offline, please contact me and I will fix it as soon 
 The bot may be terminated after the course/sememster end, but I will make sure
 it comes after I published the source code.
 ```
-[Command list](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/command_list.md)<br>
+[Command list](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/command_list.md) <br>
 [Invite Bot to your Discord server](https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot)<br>
 [Update Log](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/Update_log.md)
 

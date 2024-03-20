@@ -1,4 +1,4 @@
-### The source codes will not be published until the course / sememster end.
+hi### The source codes will not be published until the course / sememster end.
 ```
 About this bot : Discord bot for NTNU CP2 course 2024
 
@@ -28,5 +28,7 @@ ex : !hw0103 1 [2] [1] 2 [2,4] [3,6]
 <br><br><br>
 ```
 Update log:
-2024.03.19 found overflow bug at hw0103 main c file, leading overflow output and return wrong answer. (fixed at 2024/03/19)
+2024.03.19 found overflow bug at hw0103 main c file, 
+leading overflow output and return wrong answer. 
+(fixed at 2024/03/19)
 ```

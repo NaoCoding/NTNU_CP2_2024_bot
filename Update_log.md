@@ -8,6 +8,7 @@ Update log:
 2024.03.20 [Update] update Github responsitory page, add command_list.md and update_log.md
 2024.03.20 [Update] update screenshot for README.md
 2024.03.20 [Update] change the command format of hw0102.
+2024.03.20 [Reboot] reboot and update bot. (Offline for 26 minute)
 2024.03.21 [Bug] found format bug at hw0102 main c file,
               leading wrong output and return wrong answer. (fixed at 2024/03/21) 
 ```

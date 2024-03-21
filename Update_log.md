@@ -8,4 +8,5 @@ Update log:
 2024.03.20 [Update] update Github responsitory page, add command_list.md and update_log.md
 2024.03.20 [Update] update screenshot for README.md
 2024.03.20 [Update] change the command format of hw0102.
+2024.03.20 [Update] update source code
 ```

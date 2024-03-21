@@ -14,5 +14,5 @@ Update log:
 2024.03.21 [Branch] Create a branch for testing features.
 2024.03.22 [Bug] found format bug at hw0102 main c file,
               fixed it with returning -1 (null) without inputing base (fixed at 2024.03.22)
-
+2024.03.22 [Reboot] reboot and update bot. (Offline for 2 minute)
 ```

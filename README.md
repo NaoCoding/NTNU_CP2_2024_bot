@@ -1,3 +1,4 @@
+[Invite Bot to your Discord server](https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot)<br>
 ### The source codes will not be published until the course / sememster end.
 ```
 About this bot : Discord bot for NTNU CP2 course 2024
@@ -18,9 +19,8 @@ The bot may be terminated after the course/sememster end, but I will make sure
 it comes after I published the source code.
 ```
 [Command list](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/command_list.md) <br>
-[Invite Bot to your Discord server](https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot)<br>
-[Update Log](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/Update_log.md)
 
+[Update Log](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/Update_log.md)
 ![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/d35af353-3e80-427c-8021-00e3b43aa7c9)
 ![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/5b32c301-76cd-48b1-8bd4-c91c9cf0f1ad)
 

@@ -1,6 +1,10 @@
 ```
 !hw01  : commands for homework 1
 
+  !hw0105 json2txt
+  You need to upload chart.json from TA
+  You will recieve output.txt
+
   !hw0103 fy.size [fy.pPower] [fy.pCoefficients] fx.size [fx.pPower] [fx.pCoefficients]
 
     example input : !hw0103 1 [2] [1] 2 [2,3] [5,6]

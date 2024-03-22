@@ -17,4 +17,6 @@ Update log:
 2024.03.22 [Reboot] reboot and update bot. (Offline for 2 minute)
 2024.03.22 [Plan] Plan to add hw0105 json to txt function.
 2024.03.22 [Update] Update hw0105 json to txt feature.
+2024.03.22 [Bug] found format bug at hw0105 json2txt,
+              fixed it with same format as TA's (fixed at 2024.03.22)
 ```

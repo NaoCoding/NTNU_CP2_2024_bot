@@ -16,4 +16,5 @@ Update log:
               fixed it with returning -1 (null) without inputing base (fixed at 2024.03.22)
 2024.03.22 [Reboot] reboot and update bot. (Offline for 2 minute)
 2024.03.22 [Plan] Plan to add hw0105 json to txt function.
+2024.03.22 [Update] Update hw0105 json to txt feature.
 ```

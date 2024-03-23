@@ -15,4 +15,11 @@ Update log:
 2024.03.22 [Bug] found format bug at hw0102 main c file,
               fixed it with returning -1 (null) without inputing base (fixed at 2024.03.22)
 2024.03.22 [Reboot] reboot and update bot. (Offline for 2 minute)
+2024.03.22 [Plan] Plan to add hw0105 json to txt function.
+2024.03.22 [Update] Update hw0105 json to txt feature.
+2024.03.22 [Bug] found format bug at hw0105 json2txt,
+              fixed it with same format as TA's (fixed at 2024.03.22)
+2024.03.23 [Update] update README.md
+2024.03.23 [Bug] found hw0105 json2txt bug, cannot transfer whole file.
+            (haven't fixed)
 ```

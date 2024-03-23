@@ -20,4 +20,6 @@ Update log:
 2024.03.22 [Bug] found format bug at hw0105 json2txt,
               fixed it with same format as TA's (fixed at 2024.03.22)
 2024.03.23 [Update] update README.md
+2024.03.23 [Bug] found hw0105 json2txt bug, cannot transfer whole file.
+            (haven't fixed)
 ```

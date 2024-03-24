@@ -50,7 +50,11 @@ Update log:
 2024.03.23 [Update] update README.md
 2024.03.23 [Bug] found hw0105 json2txt bug, cannot transfer whole file.
             (haven't fixed)
+2024.03.23 [Network] Network issue leading bot offline for about 40 minutes.
+            (fixed at 2024.03.23 , thanks for the report by cyucccx)
+2024.03.24 [Break] Stop adding function until next homework 
 ```
+
 
 
 

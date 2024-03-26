@@ -24,5 +24,8 @@ Update log:
             (haven't fixed)
 2024.03.23 [Network] Network issue leading bot offline for about 40 minutes.
             (fixed at 2024.03.23 , thanks for the report by cyucccx)
-2024.03.24 [Break] Stop adding function until next homework 
+2024.03.24 [hw1 end] Stop adding function until next homework
+2024.03.25 [Offline] Unknown reason leading raspberry pi closed bot. (for about >12 hours)
+2024.03.25 [Reboot] reboot and update bot. (Offline for >12 hours)
+2024.03.26 [Reboot] reboot and update bot. (Offline for 13 minutes)
 ```

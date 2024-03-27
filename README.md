@@ -27,9 +27,10 @@ it comes after I published the source code.
 
 ### Latest update log (Related to Homework which still progessing)
 ```
-Update log:
+Update log (hw2):
 
 2024.03.27 [Update] Add hw0202 function. (See Command list for further information)
+2024.03.27 [Update] Update README.md and command list.
 ```
 
 

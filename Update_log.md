@@ -1,5 +1,11 @@
 ```
-Update log:
+Update log (hw2):
+
+2024.03.27 [Update] Add hw0202 function. (See Command list for further information)
+2024.03.27 [Update] Update README.md and command list.
+```
+```
+Update log (hw1):
 
 2024.03.18 [Update] Publish bot and update hw0103 testbot.
 2024.03.19 [Bug] found overflow bug at hw0103 main c file,

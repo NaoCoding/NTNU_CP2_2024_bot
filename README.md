@@ -36,6 +36,7 @@ Update log (hw2):
 2024.03.30 [Disconnect] Wireless Connection unstable issue(disconnected for > 12 hours.)
 2024.03.31 [HardWare] Bought a network switch, improve raspberry pi's coonection.
 2024.04.02 [Plan] Add hw0204 function ( Not Release yet.)
+2024.04.08 [hw2 end] Stop adding function until next homework
 ```
 
 

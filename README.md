@@ -29,7 +29,7 @@ it comes after I published the source code.
 
 ### Latest update log (Related to Homework which still progessing)
 ```
-Update log (hw2):
+Update log (general):
 
 2024.04.13 [Update] Add Compile function for testing your code in linux environment
 ```

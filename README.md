@@ -23,20 +23,15 @@ it comes after I published the source code.
 [Update Log](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/Update_log.md)<br> <br>
 ![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/d35af353-3e80-427c-8021-00e3b43aa7c9)
 ![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/5b32c301-76cd-48b1-8bd4-c91c9cf0f1ad)
+![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/7ffe9854-99f1-4850-bfc9-822a3e68a3de)
+
 
 
 ### Latest update log (Related to Homework which still progessing)
 ```
 Update log (hw2):
 
-2024.03.27 [Update] Add hw0202 function. (See Command list for further information)
-2024.03.27 [Update] Update README.md and command list.
-2024.03.29 [Update] Rebuild Server, rewrite the source code.
-2024.03.29 [Update] Fix path problems from rebuilt server.
-2024.03.30 [Disconnect] Wireless Connection unstable issue(disconnected for > 12 hours.)
-2024.03.31 [HardWare] Bought a network switch, improve raspberry pi's coonection.
-2024.04.02 [Plan] Add hw0204 function ( Not Release yet.)
-2024.04.08 [hw2 end] Stop adding function until next homework
+2024.04.13 [Update] Add Compile function for testing your code in linux environment
 ```
 
 

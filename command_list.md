@@ -2,7 +2,7 @@
 !compile
 
   you need to upload your .c file
-  check your file is ok to compile or not in linux enviroment.
+  check your file is ok to compile or not in linux environment.
 
 !hw02 : commands for homework 2
 

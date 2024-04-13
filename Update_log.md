@@ -1,4 +1,10 @@
 ```
+Update log (general):
+
+2024.04.13 [Update] Add Compile function for testing your code in linux environment
+
+```
+```
 Update log (hw2):
 
 2024.03.27 [Update] Add hw0202 function. (See Command list for further information)

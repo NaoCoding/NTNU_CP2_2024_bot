@@ -21,11 +21,6 @@ it comes after I published the source code.
 [Command list](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/command_list.md) <br>
 
 [Update Log](https://github.com/NaoCoding/NTNU_CP2_2024_bot/blob/main/Update_log.md)<br> <br>
-![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/d35af353-3e80-427c-8021-00e3b43aa7c9)
-![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/5b32c301-76cd-48b1-8bd4-c91c9cf0f1ad)
-![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/7ffe9854-99f1-4850-bfc9-822a3e68a3de)
-
-
 
 ### Latest update log (Related to Homework which still progessing)
 ```
@@ -33,6 +28,16 @@ Update log (general):
 
 2024.04.13 [Update] Add Compile function for testing your code in linux environment
 ```
+
+![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/d35af353-3e80-427c-8021-00e3b43aa7c9)
+![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/5b32c301-76cd-48b1-8bd4-c91c9cf0f1ad)
+![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/7ffe9854-99f1-4850-bfc9-822a3e68a3de)
+![image](https://github.com/NaoCoding/NTNU_CP2_2024_bot/assets/86964895/1e497c39-9fa0-4e99-830a-fe1a352b3a15)
+
+
+
+
+
 
 
 

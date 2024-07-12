@@ -1,5 +1,4 @@
 [Invite Bot to your Discord server](https://discord.com/oauth2/authorize?client_id=1219295687204667433&permissions=8&scope=bot)<br>
-### The source codes will not be published until the course / sememster end.
 ```
 About this bot : Discord bot for NTNU CP2 course 2024
 
